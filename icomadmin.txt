@@ -1,0 +1,16 @@
+->catagory
+insert 
+view
+
+->product
+add product
+managr product
+
+->user
+->manage order
+approved order
+panding order
+deleverded order
+
+
+->log out
